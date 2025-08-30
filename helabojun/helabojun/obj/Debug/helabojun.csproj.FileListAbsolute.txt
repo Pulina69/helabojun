@@ -1,0 +1,54 @@
+D:\My Files\ravindra\HELABOJUN\helabojun\bin\Debug\helabojun.exe
+D:\My Files\ravindra\HELABOJUN\helabojun\bin\Debug\helabojun.pdb
+D:\My Files\ravindra\HELABOJUN\helabojun\obj\Debug\helabojun.csproj.AssemblyReference.cache
+D:\My Files\ravindra\HELABOJUN\helabojun\obj\Debug\helabojun.Form1.resources
+D:\My Files\ravindra\HELABOJUN\helabojun\obj\Debug\helabojun.Properties.Resources.resources
+D:\My Files\ravindra\HELABOJUN\helabojun\obj\Debug\helabojun.csproj.GenerateResource.cache
+D:\My Files\ravindra\HELABOJUN\helabojun\obj\Debug\helabojun.csproj.CoreCompileInputs.cache
+D:\My Files\ravindra\HELABOJUN\helabojun\obj\Debug\helabojun.exe
+D:\My Files\ravindra\HELABOJUN\helabojun\obj\Debug\helabojun.pdb
+E:\New folder - Copy (2)\helabojun\helabojun\bin\Debug\helabojun.exe
+E:\New folder - Copy (2)\helabojun\helabojun\bin\Debug\helabojun.pdb
+E:\New folder - Copy (2)\helabojun\helabojun\obj\Debug\helabojun.csproj.AssemblyReference.cache
+E:\New folder - Copy (2)\helabojun\helabojun\obj\Debug\helabojun.Form1.resources
+E:\New folder - Copy (2)\helabojun\helabojun\obj\Debug\helabojun.Properties.Resources.resources
+E:\New folder - Copy (2)\helabojun\helabojun\obj\Debug\helabojun.csproj.GenerateResource.cache
+E:\New folder - Copy (2)\helabojun\helabojun\obj\Debug\helabojun.csproj.CoreCompileInputs.cache
+E:\New folder - Copy (2)\helabojun\helabojun\obj\Debug\helabojun.exe
+E:\New folder - Copy (2)\helabojun\helabojun\obj\Debug\helabojun.pdb
+E:\New folder - Copy (2)\helabojun\helabojun\obj\Debug\helabojun.Form2.resources
+E:\New folder - Copy (2)\helabojun\helabojun\obj\Debug\helabojun.Form3.resources
+D:\My Files\Projects\helabojun\helabojun\helabojun\obj\Debug\helabojun.csproj.AssemblyReference.cache
+D:\My Files\Projects\helabojun\helabojun\helabojun\obj\Debug\helabojun.Form1.resources
+D:\My Files\Projects\helabojun\helabojun\helabojun\obj\Debug\helabojun.Form2.resources
+D:\My Files\Projects\helabojun\helabojun\helabojun\obj\Debug\helabojun.Form3.resources
+D:\My Files\Projects\helabojun\helabojun\helabojun\obj\Debug\helabojun.Properties.Resources.resources
+D:\My Files\Projects\helabojun\helabojun\helabojun\obj\Debug\helabojun.csproj.GenerateResource.cache
+D:\My Files\Projects\helabojun\helabojun\helabojun\obj\Debug\helabojun.csproj.CoreCompileInputs.cache
+D:\My Files\Projects\helabojun\helabojun\helabojun\obj\Debug\helabojun.exe
+D:\My Files\Projects\helabojun\helabojun\helabojun\obj\Debug\helabojun.pdb
+D:\My Files\Projects\helabojun\helabojun\helabojun\bin\Debug\helabojun.exe
+D:\My Files\Projects\helabojun\helabojun\helabojun\bin\Debug\helabojun.pdb
+D:\My Files\Projects\helabojun\helabojun\helabojun\bin\Debug\Database1.mdf
+D:\My Files\Projects\helabojun\helabojun\helabojun\bin\Debug\Database1_log.ldf
+E:\New folder - Copy (2)\helabojun (1)\helabojun\helabojun\helabojun\bin\Debug\Database1.mdf
+E:\New folder - Copy (2)\helabojun (1)\helabojun\helabojun\helabojun\bin\Debug\Database1_log.ldf
+E:\New folder - Copy (2)\helabojun (1)\helabojun\helabojun\helabojun\bin\Debug\helabojun.exe
+E:\New folder - Copy (2)\helabojun (1)\helabojun\helabojun\helabojun\bin\Debug\helabojun.pdb
+E:\New folder - Copy (2)\helabojun (1)\helabojun\helabojun\helabojun\obj\Debug\helabojun.csproj.AssemblyReference.cache
+E:\New folder - Copy (2)\helabojun (1)\helabojun\helabojun\helabojun\obj\Debug\helabojun.Form1.resources
+E:\New folder - Copy (2)\helabojun (1)\helabojun\helabojun\helabojun\obj\Debug\helabojun.Form2.resources
+E:\New folder - Copy (2)\helabojun (1)\helabojun\helabojun\helabojun\obj\Debug\helabojun.Form3.resources
+E:\New folder - Copy (2)\helabojun (1)\helabojun\helabojun\helabojun\obj\Debug\helabojun.Properties.Resources.resources
+E:\New folder - Copy (2)\helabojun (1)\helabojun\helabojun\helabojun\obj\Debug\helabojun.csproj.GenerateResource.cache
+E:\New folder - Copy (2)\helabojun (1)\helabojun\helabojun\helabojun\obj\Debug\helabojun.csproj.CoreCompileInputs.cache
+E:\New folder - Copy (2)\helabojun (1)\helabojun\helabojun\helabojun\obj\Debug\helabojun.exe
+E:\New folder - Copy (2)\helabojun (1)\helabojun\helabojun\helabojun\obj\Debug\helabojun.pdb
+E:\New folder - Copy (2)\helabojun (1)\helabojun\helabojun\helabojun\obj\Debug\helabojun.UserControl1.resources
+E:\New folder - Copy (2)\helabojun (1)\helabojun\helabojun\helabojun\obj\Debug\helabojun.UserControl2.resources
+E:\New folder - Copy (2)\helabojun (1)\helabojun\helabojun\helabojun\obj\Debug\helabojun.UserControl3.resources
+E:\New folder - Copy (2)\helabojun (1)\helabojun\helabojun\helabojun\obj\Debug\helabojun.UserControl4.resources
+E:\New folder - Copy (2)\helabojun (1)\helabojun\helabojun\helabojun\obj\Debug\helabojun.Form4.resources
+E:\New folder - Copy (2)\helabojun (1)\helabojun\helabojun\helabojun\obj\Debug\helabojun.UserControl5.resources
+E:\New folder - Copy (2)\helabojun (1)\helabojun\helabojun\helabojun\obj\Debug\helabojun.UserControl6.resources
+E:\New folder - Copy (2)\helabojun (1)\helabojun\helabojun\helabojun\bin\Debug\helabojun.exe.config
