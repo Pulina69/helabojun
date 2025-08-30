@@ -1,11 +1,7 @@
 # Helabojun
 
-![Helabojun Logo](helabojun/image/background.jpg)
 
-![Logo Colorful](../dsddsfdf.jpg)
-![Logo Outline](../Untitled-1.jpg)
-![Logo Dark Gray](../Untitled-2.jpg)
-![Logo Black](../Untitled-3.jpg)
+![Dark Gray Logo](Untitled-2.jpg)
 
 ## Overview
 
@@ -43,23 +39,6 @@ helabojun/
 ├── Untitled-3.jpg
 ```
 
-## Screenshots & Branding
-
-### Main Logo
-![Main Logo](dsddsfdf.jpg)
-
-### Outline Logo
-![Outline Logo](Untitled-1.jpg)
-
-### Dark Gray Logo
-![Dark Gray Logo](Untitled-2.jpg)
-
-### Black Logo
-![Black Logo](Untitled-3.jpg)
-
-### App Background
-![App Background](helabojun/image/background.jpg)
-
 ## Getting Started
 
 1. **Requirements:**
@@ -87,3 +66,4 @@ This project is for educational/demo purposes. Add your license here if needed.
 ---
 
 > **Note:** All images and branding are included for demonstration. Replace or update as needed for production use.
+
